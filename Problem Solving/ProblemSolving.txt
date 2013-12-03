@@ -86,3 +86,4 @@ The problem here is trying to figure out which finger she will be on because whi
 
 Insight that is not shown in this problem is it will take her to at least to 25 before she lands back on her thumb that began with by counting by 5’s. But that is not the same for reaching 50. When she hits 50 it will be her first finger and then 75 will be her middle finger and so on. 
 
+One of the constraints is you really can’t do anything except count on your fingers to figure out the pattern for how this will end up. Math these days is normally done in our heads but this takes us back to basics by using our fingers to see where we will end up.
