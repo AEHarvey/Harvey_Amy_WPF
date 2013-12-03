@@ -49,6 +49,8 @@ One of the constraints on this problem is being in the dark, while we can see th
 
 To break the problem down into smaller goals I would separate the white socks first. They are the easiest to pick out. 
 
+To find a solution to answer A you would need to pull out 4 socks. 1 for each color and then a fourth is bound to match one of the other three. 
+
 
 
 
