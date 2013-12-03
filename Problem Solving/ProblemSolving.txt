@@ -93,4 +93,5 @@ I think the best sub goal is figuring out a pattern for a smaller number as I ex
 
 Solution 
 A) She will hit her First Finger as explained in the problem itself when she hits 10. 
+B) Using the method I figured out by counting with 25Õs she will end up at 100 on the ring finger. 
 
