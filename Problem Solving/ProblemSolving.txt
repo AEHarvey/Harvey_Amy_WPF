@@ -44,8 +44,9 @@ The only real insight I can give based on the question it’s going to be quite ea
 
 I think the goal would be to end up with matching socks really of any color as long as they matched. We can normally see in the dark after so long of being in it because our eyes adjust.
 
-
 One of the constraints on this problem is being in the dark, while we can see things in the dark its much harder to see dark items in the dark
+
+One of the solutions to solving one of the constraints is to pick the lightest color available in order to identify it. White can be seen even in the dark.
 
 To break the problem down into smaller goals I would separate the white socks first. They are the easiest to pick out. 
 
@@ -95,4 +96,7 @@ Solution
 A) She will hit her First Finger as explained in the problem itself when she hits 10. 
 B) Using the method I figured out by counting with 25’s she will end up at 100 on the ring finger. 
 C) She will hit 1000 on her First Finger. Per every hundred you either land on the ring finger or the first finger. 
+
+
+
 
