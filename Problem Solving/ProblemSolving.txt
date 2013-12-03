@@ -20,6 +20,8 @@ Throwing my insight into this problem itself would be that a parrot flies and do
 
 The goal of the man is to ensure everyone and everything gets to the other side of the river safe and sound. 
 
+One of the constraints that will cause a big problem is the lack of room on the boat that is by far the biggest constraint. Another constraint would be that a cat around a bird can be very bad, and a bird near seed can tend to take seed over the anything else.. With lack of room in the boat thoigh 
+
 
 
 
