@@ -51,6 +51,8 @@ To break the problem down into smaller goals I would separate the white socks fi
 
 To find a solution to answer A you would need to pull out 4 socks. 1 for each color and then a fourth is bound to match one of the other three. 
 
+Finding a solution to answer B is separation the socks into singles and then using the amount of socks for each color. There is 10 of black, 6 of brown and 4 of white. The only way to guarantee you will get one of each color without knowing before you check them is to pull 12. You can pull 10 socks out and never get a black one but its guaranteed that on the 11th and 12th it will be black. 
+
 
 
 
