@@ -16,6 +16,8 @@ A man finds himself on a riverbank with a cat, a parrot and a bag of seed. He ne
 The problem lies in needing to get multiple things to a location but not having the means to do it at all at once even though it needs to be done all at once because of certain circumstances. 
 
 
+Throwing my insight into this problem itself would be that a parrot flies and does not need to be take via a boat. If you have seed, he will come.
+
 
 
 
@@ -92,6 +94,7 @@ A little girl counts using the fingers of her left hand as follows: She starts b
 a)What if the girl counts from 1 to 10
 b)What if the girl counts from 1 to 100
 c)What if the girl counts from 1 to 1000
+
 
 
 
