@@ -89,4 +89,8 @@ Insight that is not shown in this problem is it will take her to at least to 25 
 One of the constraints is you really can’t do anything except count on your fingers to figure out the pattern for how this will end up. Math these days is normally done in our heads but this takes us back to basics by using our fingers to see where we will end up. 
 
 
-I think the best sub goal is figuring out a pattern for a smaller number as I explained at the insight section. Going by 25’s you always land at the next finger over from the previous 25 mark. 
+I think the best sub goal is figuring out a pattern for a smaller number as I explained at the insight section. Going by 25’s you always land at the next finger over from the previous 25 marks. 
+
+Solution 
+A) She will hit her First Finger as explained in the problem itself when she hits 10. 
+
