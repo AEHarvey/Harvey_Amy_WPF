@@ -1,1 +1,88 @@
-Amy Harvey11/30/2013Introduction to Web Programming Section 1Problem SolvingProblem 1: A Cat, a Parrot, and a Bag of Seed:A man finds himself on a riverbank with a cat, a parrot and a bag of seed. He needs to transport all three to the other side of the river in his boat. However, the boat has room for only the man himself and one other item (either the cat, parrot or seed). In his absence, the cat could eat the parrot, and the parrot would eat the bag of seed. Show how he can get all the passengers to the other side, without leaving the wrong ones alone together.The problem lies in needing to get multiple things to a location but not having the means to do it at all at once even though it needs to be done all at once because of certain circumstances. Throwing my insight into this problem itself would be that a parrot flies and does not need to be take via a boat. If you have seed, he will come.The goal of the man is to ensure everyone and everything gets to the other side of the river safe and sound. One of the constraints that will cause a big problem is the lack of room on the boat that is by far the biggest. Another constraint would be that a cat around a bird can be very bad, and a bird near seed can tend to take seed over the anything else.. With lack of room in the boat though that can tend to be not such a bad thing being that the bird can fly.One of the sub goals could easily be transporting the cat over to the other side of the river while you go back to pick up the seed and allow the bird to follow you with seed in hand. This way no one get’s hurt and nothing gets eaten and everyone is safe and sound… son far. My solution works exactly the way I stated it. Transporting the cat first ensures he will not go after the bird and then immediately go back to the other side to pick up the seed because it will take longer than a few moments to peck through the bag. Once you get the seed loaded up into the boat you can coax the bird into following the seed. Socks in the Dark:There are 20 socks in a drawer: 5 pairs of black socks, 3 pairs of brown and 2 pairs of white. You select the socks in the dark and can check them only after a selection has been made. What is the smallest number of socks you need to select to guarantee getting the following?a) At least one matching pairb) At least one matching pair of each color.The problem is trying to figure out the mathematical equation to get both one matching pair and one matching pair of each color. Predicting Fingers:A little girl counts using the fingers of her left hand as follows: She starts by calling her thumb 1, the first finger 2, middle finder 3, ring finger 4, and little finger 5. Then she reverses direction, calling the ing finger 6, middle finger 7, first finger 8 and thumb 9, after which she calls her first finger 10 and so on. If she continues to count in this manner, on which finger will she stop?a)What if the girl counts from 1 to 10b)What if the girl counts from 1 to 100c)What if the girl counts from 1 to 1000
+Amy Harvey
+11/30/2013
+Introduction to Web Programming Section 1
+Problem Solving
+
+
+
+Problem 1: 
+
+A Cat, a Parrot, and a Bag of Seed:
+A man finds himself on a riverbank with a cat, a parrot and a bag of seed. He needs to transport all three to the other side of the river in his boat. However, the boat has room for only the man himself and one other item (either the cat, parrot or seed). In his absence, the cat could eat the parrot, and the parrot would eat the bag of seed. Show how he can get all the passengers to the other side, without leaving the wrong ones alone together.
+
+
+The problem lies in needing to get multiple things to a location but not having the means to do it at all at once even though it needs to be done all at once because of certain circumstances. 
+
+Throwing my insight into this problem itself would be that a parrot flies and does not need to be take via a boat. If you have seed, he will come.
+
+The goal of the man is to ensure everyone and everything gets to the other side of the river safe and sound. 
+
+One of the constraints that will cause a big problem is the lack of room on the boat that is by far the biggest. Another constraint would be that a cat around a bird can be very bad, and a bird near seed can tend to take seed over the anything else.. With lack of room in the boat though that can tend to be not such a bad thing being that the bird can fly.
+
+One of the sub goals could easily be transporting the cat over to the other side of the river while you go back to pick up the seed and allow the bird to follow you with seed in hand. This way no one get’s hurt and nothing gets eaten and everyone is safe and sound… son far. 
+
+
+My solution works exactly the way I stated it. Transporting the cat first ensures he will not go after the bird and then immediately go back to the other side to pick up the seed because it will take longer than a few moments to peck through the bag. Once you get the seed loaded up into the boat you can coax the bird into following the seed. 
+
+
+
+Socks in the Dark:
+There are 20 socks in a drawer: 5 pairs of black socks, 3 pairs of brown and 2 pairs of white. You select the socks in the dark and can check them only after a selection has been made. What is the smallest number of socks you need to select to guarantee getting the following?
+a) At least one matching pair
+b) At least one matching pair of each color.
+
+The problem is trying to figure out the mathematical equation to get both one matching pair and one matching pair of each color. 
+
+The only real insight I can give based on the question is it’s not going to be too terribly hard to find a matching pair of socks but it will take more to get one of each color. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Predicting Fingers:
+A little girl counts using the fingers of her left hand as follows: She starts by calling her thumb 1, the first finger 2, middle finder 3, ring finger 4, and little finger 5. Then she reverses direction, calling the ing finger 6, middle finger 7, first finger 8 and thumb 9, after which she calls her first finger 10 and so on. If she continues to count in this manner, on which finger will she stop?
+
+a)What if the girl counts from 1 to 10
+b)What if the girl counts from 1 to 100
+c)What if the girl counts from 1 to 1000
+
+
+
+
+
