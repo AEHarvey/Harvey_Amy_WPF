@@ -5,8 +5,6 @@ Problem Solving
 
 
 
-
-
 Problem 1: 
 
 A Cat, a Parrot, and a Bag of Seed:
@@ -15,12 +13,13 @@ A man finds himself on a riverbank with a cat, a parrot and a bag of seed. He ne
 
 The problem lies in needing to get multiple things to a location but not having the means to do it at all at once even though it needs to be done all at once because of certain circumstances. 
 
-
 Throwing my insight into this problem itself would be that a parrot flies and does not need to be take via a boat. If you have seed, he will come.
 
 The goal of the man is to ensure everyone and everything gets to the other side of the river safe and sound. 
 
-One of the constraints that will cause a big problem is the lack of room on the boat that is by far the biggest constraint. Another constraint would be that a cat around a bird can be very bad, and a bird near seed can tend to take seed over the anything else.. With lack of room in the boat though that can tend to be not such a bad thing being that the bird can fly.
+One of the constraints that will cause a big problem is the lack of room on the boat that is by far the biggest. Another constraint would be that a cat around a bird can be very bad, and a bird near seed can tend to take seed over the anything else.. With lack of room in the boat though that can tend to be not such a bad thing being that the bird can fly.
+
+One of the sub goals could easily be transporting the cat over to the other side of the river while you go back to pick up the seed and allow the bird to follow you with seed in hand. This way no one get’s hurt and nothing gets eaten and everyone is safe and sound… son far. 
 
 
 
