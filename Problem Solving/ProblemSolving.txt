@@ -47,7 +47,7 @@ I think the goal would be to end up with matching socks really of any color as l
 
 One of the constraints on this problem is being in the dark, while we can see things in the dark its much harder to see dark items in the dark
 
-
+To break the problem down into smaller goals I would separate the white socks first. They are the easiest to pick out. 
 
 
 
