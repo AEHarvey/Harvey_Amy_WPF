@@ -7,4 +7,4 @@ console.log("Hello World");
 console.log(yearBorn);
     */
 
-alert("1955")
+alert("yearBorn")
