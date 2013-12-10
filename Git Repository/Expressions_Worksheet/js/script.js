@@ -16,3 +16,4 @@ var pizzaBought = 6; // total pizzas for the party
 var result = pizzaBought * pizzaSlices / partyPeople;
 
 console.log(result)
+// Partygoers will get 2 slices of pizza
