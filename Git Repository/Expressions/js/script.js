@@ -1,5 +1,5 @@
 //Expressions
 
 var a = 2; //sets up our variable and defines it with the value of 2
-a + 3; //add 3 to a
+a = a + 3; //add 3 to a
 console.log(a);
