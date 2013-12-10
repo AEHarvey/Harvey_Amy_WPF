@@ -5,15 +5,24 @@
 var sparkysAge = 4; //sparkysage is 4
 var age = sparkysAge * 7; //multiplying dog years by human years
 
-console.log(age) //console.log is equal to human years times dog years
+console.log("sparky is" + " " + age + " " + "years old which is " + sparkysAge + " " + "in dog years");
+//console.log is equal to human years times dog years
+
+
 
 //Slice of pie part 1
+//How much pizza each party goer will get
 
-var pizzaSlices = 8; //slices per pizza
-var partyPeople = 24; //amount of people at the party
-var pizzaBought = 6; // total pizzas for the party
+const pizzaSlices = 8; // 8 slices per pizza
+var partyPeople = 20; // 24 total people at the party
+var pizzaBought = 6; // 6 total pizzas for the party
 
-var result = pizzaBought * pizzaSlices / partyPeople;
+// pizzas bought divided by amount of people divided by the amount of people
 
-console.log(result)
-// Partygoers will get 2 slices of pizza
+var slicePer = pizzaBought * pizzaSlices / partyPeople;
+
+console.log("each person ate" + " " + slicePer + " " + "slices of pizza at the party") // Partygoers will get 2 slices of pizza
+
+//slice of pie part 2
+//how much pizza will sparky get
+
