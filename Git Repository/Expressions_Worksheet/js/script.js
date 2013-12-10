@@ -14,7 +14,7 @@ console.log("sparky is" + " " + age + " " + "years old which is " + sparkysAge +
 //How much pizza each party goer will get
 
 const pizzaSlices = 8; // 8 slices per pizza
-var partyPeople = 20; // 24 total people at the party
+var partyPeople = 20; // 20 total people at the party
 var pizzaBought = 6; // 6 total pizzas for the party
 
 // pizzas bought divided by amount of people divided by the amount of people
@@ -24,5 +24,9 @@ var slicePer = pizzaBought * pizzaSlices / partyPeople;
 console.log("each person ate" + " " + slicePer + " " + "slices of pizza at the party") // Partygoers will get 2 slices of pizza
 
 //slice of pie part 2
-//how much pizza will sparky get
+//how much pizza will sparky get using modulo
+
+var remainder = 48 % 20;
+console.log("sparky got" + " " + remainder + " " + "slices of pizza")
+
 
