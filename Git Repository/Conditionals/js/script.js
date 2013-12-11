@@ -1,9 +1,9 @@
 //Conditionals
 
-temp = 80;
+sunny = true;
 
 if(sunny){
-    gotothebeach();
+    goToTheBeach();
 
     if(warmWater){
         wearNewSuit();
