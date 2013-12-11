@@ -1,17 +1,10 @@
 //Conditionals
 
-sunny = true;
+var oldEnough = true;
 
-if(sunny){
-    goToTheBeach();
+//if the child is old enough, print to the console "You can ride!"
 
-    if(warmWater){
-        wearNewSuit();
-    }
-}else{goToTheMovies();
+if(oldEnough);{
+   //code performed if the condition is true
+    console.log("You Can ride the coaster!")
 }
-
-
-//if temperature is equal to 70 degrees I will go to the beach
-//if the water is warm I can wear my new swim suit, otherwise sticking to the movies
-
