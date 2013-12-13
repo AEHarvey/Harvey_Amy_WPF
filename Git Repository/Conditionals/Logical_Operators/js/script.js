@@ -1,6 +1,6 @@
 //Conditionals Operators - Logical Operators
 
-var budget = 300;
+var budget = 100;
 var iPhonePrice = 199.99;
 var wonLottery = true;
 
