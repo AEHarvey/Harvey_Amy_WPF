@@ -18,6 +18,36 @@ if(notEnoughGas > 200){
     console.log("You only have" + " " + gallonsLeft + " " +  "gallons of gas in your tank, better get gas now while you can");
 }
 
+//Grade Letter Calculator
+
+var studentGrade = 87; //student
+var letterGrade;
+
+if(studentGrade >= 90){
+    letterGrade = "A";
+}else    if(studentGrade >= 80){
+    letterGrade = "B";
+}else {
+    if(studentGrade >= 73){
+        letterGrade = "C";
+    }else {
+        if(studentGrade >= 70){
+            letterGrade = "D";
+        }else {
+            if(studentGrade >= 69){
+                lettergrade = "F";
+            }else{
+            }
+        }
+    }
+}
+}
+
+console.log("You have an" + " " + studentGrade + " " + "%, which means you have a" + " " + letterGrade + " " + "in this class")
 
 
-//grade letter calculator
+
+
+
+
+
