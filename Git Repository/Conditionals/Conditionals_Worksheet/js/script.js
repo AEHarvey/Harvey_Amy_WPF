@@ -47,6 +47,27 @@ console.log("You have an" + " " + studentGrade + "%, which means you have a" + "
 
 
 
+//movie ticket prices
+
+var custAge = 61; //customer is 61 years old
+var movieTime = 2; // movie comes on at 2PM
+var moviePriceBef = 7;
+var moviePriceAft = 12;
+
+//if the customer is under 10 and over 55 the ticket price is $7
+//if the movie is between 3 - 5 then ticket price is $7
+
+if(custAge >=10 <= 55){
+    //customer over 55 ticket price is $7
+    console.log("The ticket price is" + " " + moviePriceBef)
+}else{
+   // ticket price if customer doesn't meet age specs
+    console.log("The ticket price is" + " " + moviePriceAft)
+}
+
+
+
+
 
 
 
