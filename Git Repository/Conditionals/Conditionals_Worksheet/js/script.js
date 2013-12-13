@@ -20,30 +20,29 @@ if(notEnoughGas > 200){
 
 //Grade Letter Calculator
 
-var studentGrade = 87; //student
+var studentGrade = 87; //student has an 87% grade at end of class
 var letterGrade;
 
-if(studentGrade >= 90){
+if(studentGrade >= 90){ // greater than or equal to 90 is a letter grade A
     letterGrade = "A";
-}else    if(studentGrade >= 80){
+}else    if(studentGrade >= 80){ //greater than or equal to 80 is a b
     letterGrade = "B";
 }else {
-    if(studentGrade >= 73){
+    if(studentGrade >= 73){ // greater than or to a 70 is a C
         letterGrade = "C";
     }else {
-        if(studentGrade >= 70){
+        if(studentGrade >= 70){ //greater than or equal to 70 is a d
             letterGrade = "D";
         }else {
-            if(studentGrade >= 69){
+            if(studentGrade >= 69){ // anything below a 69 is an F
                 lettergrade = "F";
             }else{
             }
         }
     }
 }
-}
 
-console.log("You have an" + " " + studentGrade + " " + "%, which means you have a" + " " + letterGrade + " " + "in this class")
+console.log("You have an" + " " + studentGrade + "%, which means you have a" + " " + letterGrade + " " + "in this class")
 
 
 
