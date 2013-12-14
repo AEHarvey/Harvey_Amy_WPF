@@ -7,7 +7,7 @@ var xmasLightsFront = prompt ("How many Christmas lights are out front this year
 var xmasLightsBack = prompt ("How many Christmas lights are out back this year?"); // how many christmas lights are out back this year
 var xmasLightsIn = prompt ("How many Christmas lights total are inside?"); // how many christmas lights are inside
 var totalXmasLights = (+xmasLightsBack + +xmasLightsFront + +xmasLightsIn); //how many christmas lights total are up
-var xmasLightsOutside = (+xmasLightsBack + +xmasLightsFront);
+var xmasLightsOutside = (+xmasLightsBack + +xmasLightsFront); //how many christmas lights are total outside
 
 
 if(totalXmasLights <= 2000){
