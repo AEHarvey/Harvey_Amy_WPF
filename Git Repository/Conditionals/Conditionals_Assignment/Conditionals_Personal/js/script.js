@@ -3,8 +3,8 @@
 
 
 //christmas lights in and on the house
-var xmasLightsFront = prompt ("How many Christmas lights are out front this year?"); //how many christmas lights do you have out front 
-var xmasLightsBack = prompt ("How many Christmas lights are out back this year?");
+var xmasLightsFront = prompt ("How many Christmas lights are out front this year?"); //how many christmas lights do you have out front
+var xmasLightsBack = prompt ("How many Christmas lights are out back this year?"); // how many christmas lights are out back this year
 var xmasLightsIn = prompt ("How many Christmas lights total are inside?");
 var totalXmasLights = (+xmasLightsBack + +xmasLightsFront + +xmasLightsIn);
 var xmasLightsOutside = (+xmasLightsBack + +xmasLightsFront);
