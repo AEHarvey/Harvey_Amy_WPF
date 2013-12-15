@@ -11,11 +11,14 @@ var xmasLightsOutside = (+xmasLightsBack + +xmasLightsFront); //how many christm
 
 
 if(totalXmasLights <= 2000){
+    //will determine if there is enough lights to compete in weekly contest
     console.log("With" + " " + xmasLightsOutside + " " + "Christmas lights is just enough for you can compete in the contest");
 
 }else if(xmasLightsOutside >=1000){
+    // will determine if there is enough lights outside to compete in the daily contest
     console.log( "With" + " " + xmasLightsOutside + " " + "Christmas lights up, you can compete in the daily contest instead of the weekly contest for best Christmas design");
 
 }else{
+    // determines if there is enough to compete at all
     console.log("You only have" + " " + totalXmasLights + " " + "Christmas lights and that is not enough to compete this year");
 }
