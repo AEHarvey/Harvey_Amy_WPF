@@ -13,7 +13,7 @@ var totalDeclaw = (+greatP + +huskyD + +miniPin); //total amount of dewclaws for
 
 }else{ //else condition if total dewclaws is less than 10
     console.log("I know 3 dogs with dewclaws but they only have" + " " + totalDeclaw + " " + "total declaws"); // what it will print to the console if total dewclaws is lower than 10
-}*/
+*/
 // commenting out if else statement to put in ternary
 
 (totalDeclaw > 10) ? console.log("I know 3 people that have dogs that have declaws!") : console.log("I know 3 dogs with dewclaws but they only have" + " " + totalDeclaw + " " + "total declaws");
