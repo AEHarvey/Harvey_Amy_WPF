@@ -17,7 +17,7 @@ if(logo1 >= 1 && banners1 >= 1);{ // if the logos and banners are equal or above
 }    if(banners1 < 1){ //if banners are less than 1 it'll prompt for a new answer
     alert ("I need a response about the banners"); // alert if answer is not 1 or above
     prompt ("How many banners do you need?"); // prompt for number if less than 1
-}}else (logo1 >= 1 && banners1 >= 1);{
+}else (logo1 >= 1 && banners1 >= 1);{ //if logos are 1 or above and banners are 1 or above it'll alert "thanks" and then print to console
     alert ("Thank you for the response");
     console.log("I need" + " " + totalLoBa + " " + "logo's and banner's for my website");
 }
