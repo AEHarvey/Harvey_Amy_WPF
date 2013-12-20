@@ -7,5 +7,5 @@
 var total = circumfSize(4, 3.14); // arguments sent to parameters
 
 function circumfSize(d, p){ //parameters from the arguments for functions to use
-
+    var circleSize = d * p; 
 }
