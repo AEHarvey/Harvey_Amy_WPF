@@ -13,4 +13,4 @@ function circumfSize(d, p){ //parameters from the arguments for functions to use
     //also removed the pi symbol because it kept giving me errors. input the 'p' for pi
 }
 
-console.log("The circumference of the circle is " + total + "."); // console.log info of the d * p which is diameterm
+console.log("The circumference of the circle is " + total + " inches."); // console.log info of the d * p which is diameterm
