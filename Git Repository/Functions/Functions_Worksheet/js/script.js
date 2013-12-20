@@ -4,10 +4,10 @@
 //Circumference
 //Calculating the circumference of a circle
 
-
-
-function cirCircumf(diameter){ //cicumference is diameter times Pi
-    var cirCircumf = 4 * 3.14;
-    console.log("The circumference of the circle is " + cirCircumf)
+function cirDiameter(circlesize){//diameter of a circle times 2 is the circumference
+    var circumferenceSize = circlesize * 3.14;
+    console.log("The circumeference of the circle is " + circumferenceSize)
 }
-cirCircumf(3)
+
+cirDiameter(3)
+cirDiameter(2)
