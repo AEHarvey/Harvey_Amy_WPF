@@ -32,6 +32,6 @@ function beaverWeight(bw, bs){
     return stingsToKill;
 
 }
-
+console.log("It takes " + beeStings + " to kill this beaver")
 
 
