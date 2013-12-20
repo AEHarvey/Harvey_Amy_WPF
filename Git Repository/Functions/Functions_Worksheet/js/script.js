@@ -27,6 +27,9 @@ console.log("The circumference of the circle is " + total + " inches."); // cons
 
 var beeStings = beaverWeight(31, 8.666666667); //animal is a beaver, beavers weight is 31lbs
 
+function beaverWeight(bw, bs){
+    
+}
 
 
 
