@@ -35,3 +35,4 @@ function beaverWeight(bw, bs){ // parameters to from arguments to determine how 
 console.log("It takes " + beeStings + " to kill this beaver") //console.log prints out using the variable that used the function to determine the amount of bee stings it takes to kill a 31lb animal
 
 
+//Functions Worksheet completed
