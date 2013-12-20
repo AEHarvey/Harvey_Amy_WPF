@@ -1,8 +1,10 @@
-//Functions
+//Functions - excution
 //Amy Harvey 12/19/2013
 
+console.log("Hello World")
 function outptMsg (){
     console.log("Hello World")
+        //creating a function for output message "hello world"
 }
 
 function calcArea(){
@@ -10,4 +12,5 @@ function calcArea(){
     var height = 30;
     var area = width * height;
     console.log(area);
+    //function for output of "area"
 }
