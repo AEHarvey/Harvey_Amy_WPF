@@ -28,8 +28,8 @@ console.log("The circumference of the circle is " + total + " inches."); // cons
 var beeStings = beaverWeight(31, 8.666666667); //animal is a beaver, beavers weight is 31lbs, 8.666666667 stings per pound to kill an animal
 
 function beaverWeight(bw, bs){ // parameters to from arguments to determine how many bee stings for a 31lb beaver
-    var stingsToKill = bw * bs;
-    return stingsToKill;
+    var stingsToKill = bw * bs; // using the parameter amounts to determine the amount of bee stings total to kill a 31 lb animal
+    return stingsToKill; // return for the expression for stingsToKill variable
 
 }
 console.log("It takes " + beeStings + " to kill this beaver")
