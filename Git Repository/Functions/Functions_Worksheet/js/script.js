@@ -25,9 +25,9 @@ console.log("The circumference of the circle is " + total + " inches."); // cons
 
 //takes 8.666666667 bee stings per lb to kill an animal. Calculate how many stings to kill an animal
 
-var beeStings = beaverWeight(31, 8.666666667); //animal is a beaver, beavers weight is 31lbs
+var beeStings = beaverWeight(31, 8.666666667); //animal is a beaver, beavers weight is 31lbs, 8.666666667 stings per pound to kill an animal
 
-function beaverWeight(bw, bs){
+function beaverWeight(bw, bs){ //
     var stingsToKill = bw * bs;
     return stingsToKill;
 
