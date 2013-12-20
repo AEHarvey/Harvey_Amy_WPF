@@ -1,6 +1,7 @@
 //Functions - excution
 //Amy Harvey 12/19/2013
 
+var width = 5;
 
 function calcArea(){
     var width = 20;
