@@ -15,3 +15,17 @@ function circumfSize(d, p){ //parameters from the arguments for functions to use
 
 console.log("The circumference of the circle is " + total + " inches."); // console.log info of the d * p which is diameterm
 //added inches to the end of the console.log so that there was a type for the 'total'
+
+
+
+
+//String Problem
+//12/20/2013
+//problem created today because I had trouble understanding returns over last few days and completion of problems today
+
+//takes 8.666666667 bee stings per lb to kill an animal. Calculate how many stings to kill an animal
+
+var beeStings = beaverWeight(31); //animal is a beaver, beavers weight is 31lbs
+
+
+
