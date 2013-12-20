@@ -35,4 +35,3 @@ function beaverWeight(bw, bs){
 
 
 
-
