@@ -16,7 +16,8 @@ function graphicsAmt(){ //input function for the amount of graphics
         }   else
                 if(websitePages <= 5 && graphicsStore >= 11){
                    //if graphics are less than or equal to 5 and total graphics needed is greater than or equal to 11, print this to console
-
+                    console.log("I can build " + websitePages + " website pages for you, but I cannot create those " + graphicsStore + " graphics in time");
+                    //this is to printed to console if if statement is equal
 
 
 
