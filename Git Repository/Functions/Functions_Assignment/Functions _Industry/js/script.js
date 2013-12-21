@@ -6,5 +6,7 @@
 
 
 function graphicsAmt(){ //input function for the amount of graphics
+    var graphicsStore = prompt ("Enter the amount of items in you E-Store.");
+    var websitePages = prompt ("Enter the amount of pages you need.");
 
 }
