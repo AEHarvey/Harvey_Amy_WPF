@@ -20,5 +20,6 @@ function getAmts(e, t){ //parameters
 
     //commenting out the if else statement to put in ternary
 
+  (totalFeet >= 40 || turtleGo >= 10 || elvesGo >=10) ? console.log('Head Turtle says "too many feet to stop at the village salon for a pedicure!"') : console.log('Head Elf says "I think the village salon shop worker can fit us in before we continue our journey!"');
 }
 
